@@ -24,9 +24,3 @@ def portfolio():
 def contact():
     return "Contact Page Route"
 
-
-@app.route("/api")
-def api():
-    from data import sample
-
-    return sample
