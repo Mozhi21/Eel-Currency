@@ -83,7 +83,7 @@ To summarize, the code uses a BFS algorithm to crawl the Fakebook site and a cus
 
 Flags found by **Xinyi Feng** 
 
- 👉 See folder for [screentshots](https://drive.google.com/file/d/1C1vXm7BT2u-7ipLeqP4aGoVphegC2TlJ/view?usp=share_link) 
+ 👉 See folder for [screentshots](https://drive.google.com/drive/folders/1MAqQfowIyvuIGnM1J-c_pNzooaRHFzc1?usp=share_link) 
 
 
 |    url            |      flag (clik to see each screenshot)              |     
