@@ -83,25 +83,35 @@ To summarize, the code uses a BFS algorithm to crawl the Fakebook site and a cus
 
 Flags found by **Xinyi Feng** 
 
- 👉 See folder for [screentshots](https://drive.google.com/drive/folders/1MAqQfowIyvuIGnM1J-c_pNzooaRHFzc1?usp=share_link) 
+ 👉 See folder for [screentshots](https://github.com/CS5700-Hamandi-SP23/sp23-webcrawler-FentPams/tree/main/SP23%20webcrawler%20starter%20code/Flags_screenshot_Xinyi) 
 
 
 |    url            |      flag (clik to see each screenshot)              |     
 |-------------------|-------------------------|
-|  project2.5700.network/fakebook/569241248/ | [8dfb98d0ce8f05dff94f7ba019932dae3092434aae8843dd526068fe044eb5f6](https://drive.google.com/file/d/1YSbd-MwQL-Vy-t8YPD2UhNDhUrPgbDaC/view?usp=share_link)        |
-|  project2.5700.network/fakebook/918222354/ | [8c4f831ab0da4eb39beb781d077669bbf370e69fe399b7d411d802ee1234971d](https://drive.google.com/file/d/1CReEl_BG0zzSUm-byUgEn0Gw59DeIBiP/view?usp=share_link)        | 
-|  project2.5700.network/fakebook/862222411/ | [86b572e7056b0692200ce995d37fdf6f34abeaf90247155159a228fc3b1b5216](https://drive.google.com/file/d/16ksjoh4uqCegsDOdbwUx3k5LAbWfY8T0/view?usp=share_link)        | 
-|  project2.5700.network/fakebook/768684842/ | [2fa8a7226ec30bf891b4696ae34c534445f985cb0bc0c0293f505145af95e47f](https://drive.google.com/file/d/1as7cQvah8MDylT91l4S_Vcr5wrY0RiYP/view?usp=share_link)        |
-|  project2.5700.network/fakebook/528130223/ | [0f2cdd5ec07f84eff7dd9eeb58d7be243d4af96e8e1f5af819123883870f4c73](https://drive.google.com/file/d/1tBwfzyZ_KIBmCL13s9u2F4oqH0bTpgpy/view?usp=share_link)        |
-
-![Xinyi's falgs](https://drive.google.com/u/0/uc?id=1C1vXm7BT2u-7ipLeqP4aGoVphegC2TlJ&export=download)
-
+|  project2.5700.network/fakebook/569241248/ | [8dfb98d0ce8f05dff94f7ba019932dae3092434aae8843dd526068fe044eb5f6](https://github.com/CS5700-Hamandi-SP23/sp23-webcrawler-FentPams/blob/main/SP23%20webcrawler%20starter%20code/Flags_screenshot_Xinyi/8dfb98d0ce8f05dff9417ba019932dae3092434aae8843dd526068fe044eb5f6.png)        |
+|  project2.5700.network/fakebook/918222354/ | [8c4f831ab0da4eb39beb781d077669bbf370e69fe399b7d411d802ee1234971d](https://github.com/CS5700-Hamandi-SP23/sp23-webcrawler-FentPams/blob/main/SP23%20webcrawler%20starter%20code/Flags_screenshot_Xinyi/8c4%C2%A3831ab0da4eb39beb781d077669bb370e69fe399b7d411d802ee1234971d.png)        | 
+|  project2.5700.network/fakebook/862222411/ | [86b572e7056b0692200ce995d37fdf6f34abeaf90247155159a228fc3b1b5216](https://github.com/CS5700-Hamandi-SP23/sp23-webcrawler-FentPams/blob/main/SP23%20webcrawler%20starter%20code/Flags_screenshot_Xinyi/86b57270560692200ce995d37fdf6f34abeaf90247155159a228fc3b1b5216.png)        | 
+|  project2.5700.network/fakebook/768684842/ | [2fa8a7226ec30bf891b4696ae34c534445f985cb0bc0c0293f505145af95e47f](https://github.com/CS5700-Hamandi-SP23/sp23-webcrawler-FentPams/blob/main/SP23%20webcrawler%20starter%20code/Flags_screenshot_Xinyi/2f8a7226ec30bf891b4696ae34c534445f985cb0bc0c0293505145af95e47f.png)        |
+|  project2.5700.network/fakebook/528130223/ | [0f2cdd5ec07f84eff7dd9eeb58d7be243d4af96e8e1f5af819123883870f4c73](https://github.com/CS5700-Hamandi-SP23/sp23-webcrawler-FentPams/blob/main/SP23%20webcrawler%20starter%20code/Flags_screenshot_Xinyi/0f2cdd5ec07f84eff7dd9eeb58d7be243d4af968e1f5af819123883870f4c73.png)        |
+<div  align="center">    
+   <img src="./Flags_screenshot_Xinyi/5flags_screenshots .png" width = "690" height = "720" alt="splash_demo" align=center />
+</div>
+<div  align="center">    
+   <img src="./Flags_screenshot_Xinyi/Xinyi Feng_Flag_Screenshot.png" width = "690" height = "720" alt="splash_demo" align=center />
+</div>
    
 Flgs found by **Mozhi Shen** 
 
 |    url            |      flag               |     
 |-------------------|-------------------------|
-|                   |                         |
+|  project2.5700.network/fakebook/725614836/ | [6a7ec6b2349f8d6a588593024834c8d0660ab9edd971fdbdb24811744609ed2f](https://drive.google.com/file/d/1pKGLk1qoAmOv4jVCYhIR9utj2ODAhPXz/view)    |
+|  project2.5700.network/fakebook/178995388/ | [538cbf92b1ce0d0141d78090bcd667c803be978405d8ccf8486357473f33e15e](https://drive.google.com/file/d/1y3ZHh__UOOn_2hBNukvWd-mXI1uwVwIo/view?usp=share_link)   | 
+|  project2.5700.network/fakebook/813499438/ | [9f634036a8abe3e3d9f23dcc5f35aad543b7b6874535759404ed1dfe1dd7cd24](https://drive.google.com/file/d/1jlrJ4zvC-Th83qaABh_VqBTSMHow6hNx/view?usp=sharing)        | 
+|  project2.5700.network/fakebook/961886470/ | [dbdf0df829d683723f32f77c69c12c4718fb63662f3ac8bcc9728b37f425d1a8](https://drive.google.com/file/d/1pAhau7hGtVB7J-34QRZ29H6Rki38Zquv/view?usp=sharing)        |
+|  project2.5700.network/fakebook/492181438/ | [ffd0662de5de6fbae7e86f4f2d6e6221c8054e4c2f215efb35fb8b97ca1c85de](https://drive.google.com/file/d/1_5-OqhmD3l_ce8QT8KgzPrVHX5X9R4Y8/view?usp=sharing)     |
+<div  align="center">    
+   <img src="[https://raw.githubusercontent.com/huwang12138/markdown-picture/main/flags.png](https://drive.google.com/file/d/1nRgzQ-LYx1T-H7wPyWA255EdsKyigXlr/view?usp=sharing)"  height = "4000" alt="splash_demo" align=center />
+</div>
 
 
 Flgs found by **Hui Hu** 
@@ -115,7 +125,7 @@ Flgs found by **Hui Hu**
 |  project2.5700.network/fakebook/941127588/ | [46e9d1bb131ed25a43a7c3dfe3ab601ea7c3116c2d383bb9511c58a071b3501a](https://raw.githubusercontent.com/huwang12138/markdown-picture/main/flag5.png)        |
 
 <div  align="center">    
-   <img src="https://raw.githubusercontent.com/huwang12138/markdown-picture/main/flags.png" alt="splash_demo" align=center />
+   <img src="https://raw.githubusercontent.com/huwang12138/markdown-picture/main/flags.png" width = "690" height = "720" alt="splash_demo" align=center />
 </div>
 
 
@@ -134,19 +144,6 @@ the `handle_data`  function, we complete crawling one’s friend list when the �
 3. In `receive_msg` function,  for reading the header data until "\r\n\r\n" is found, we used to use `while b"\r\n\r\n" not in header_data:` which will check the whole header data; now we use `while not header_data.endswith(b"\r\n\r\n"):` which only needs to check the end of the header data.
 
 4. Break the crawling when all 5 flags are found. 
-
-:star: **Hui Hu**:
-
-1. `socket.recv()` is a blocking call, which means the program is blocked, or halted, until `socket.recv()` finish its operations, and the program can resume its execution. When socket is blocking, `socket.recv` will return as long as the network buffers have bytes. If bytes in the network buffers are more than `socket.recv` can handle, it will return the maximum number of bytes it can handle. If bytes in the network buffers are less than `socket.recv` can handle, it will return all the bytes in the network buffers.
-
-One trick lays here, if we cannot find the correct buffer size when receiving header data, we will keep getting empty bytes, which causes a infinite loop. 
-
-2. The `Set-Cookie` field name contains a series of attributes that specify the details of the cookie, including its name, value, expiration time, domain, path, and other metadata. For example:
-
-   `Set-Cookie: sessionid=xxxxxxx; csrftoken=xxxxxxxx; name=value; Expires=Wed, 21 Oct 2023 07:28:00 GMT; Path=/; Domain=example.com; Secure; HttpOnly`
-We only need `sessionid` and `csrftoken`.
-
-
 
 ## Tests
 **Xinyi Feng**: I use a lot of print in my code, to check what the request header and body looks like and what message given back.
