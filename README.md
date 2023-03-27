@@ -104,10 +104,8 @@ Flgs found by **Mozhi Shen**
 |  project2.5700.network/fakebook/813499438/ | [9f634036a8abe3e3d9f23dcc5f35aad543b7b6874535759404ed1dfe1dd7cd24](https://drive.google.com/file/d/1jlrJ4zvC-Th83qaABh_VqBTSMHow6hNx/view?usp=sharing)        | 
 |  project2.5700.network/fakebook/961886470/ | [dbdf0df829d683723f32f77c69c12c4718fb63662f3ac8bcc9728b37f425d1a8](https://drive.google.com/file/d/1pAhau7hGtVB7J-34QRZ29H6Rki38Zquv/view?usp=sharing)        |
 |  project2.5700.network/fakebook/492181438/ | [ffd0662de5de6fbae7e86f4f2d6e6221c8054e4c2f215efb35fb8b97ca1c85de](https://drive.google.com/file/d/1_5-OqhmD3l_ce8QT8KgzPrVHX5X9R4Y8/view?usp=sharing)     |
-<div  align="center">    
-   <img src="[https://raw.githubusercontent.com/huwang12138/markdown-picture/main/flags.png](https://drive.google.com/file/d/1nRgzQ-LYx1T-H7wPyWA255EdsKyigXlr/view?usp=sharing)"  height = "4000" alt="splash_demo" align=center />
-</div>
 
+![Mozhi's falgs](https://drive.google.com/file/d/1jDhwrgSYayqtdwSJoZ7545QdPZRRvgR8/view?usp=sharing))
 
 Flgs found by **Hui Hu** 
 
