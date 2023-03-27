@@ -29,6 +29,7 @@
 - [Result](#result)
 - [Feedback and thoughts](#thoughts)
 - [The way I test](#tests)
+- [Breakdown] (#breakdown)
 
 
 
@@ -149,6 +150,26 @@ We only need `sessionid` and `csrftoken`.
 ## Tests
 **Xinyi Feng**: I use a lot of print in my code, to check what the request header and body looks like and what message given back.
 Also, I print out the craweling process in my console like `print("start crawl url:", url)` to check the url is crawling. Besides, I import timer just for checking the crawling speed. And last, print the flags when I find one. 
+## Breakdown
+
+**Xinyi Feng** 
+- Functions implemented, complete the functions including `class FakebookHTMLParser(HTMLParser)` `def send_get_request(path, sock, host, cookies=None)` `def login_user(sock, path, host, body, cookies)` 
+- Co-work on `def main()`
+- Optimize the codes, speed up the running time
+- Write readme
+
+**Hui Hu** 
+- Functions implemented, complete the functions `def receive_msg(sock)` `def update_cookies(header, cookies)`
+- Co-work on `def main()`
+- Complete Comments and tests codes
+- Co-write readme
+
+
+**Mozhi Shen** 
+- Draft the `def main()`
+- Proofread the functions
+- Write comments and tests
+- Optimize codes
 
 
 @ 2023  Northeastern University
