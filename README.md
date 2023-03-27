@@ -115,7 +115,7 @@ Flgs found by **Hui Hu**
 |  project2.5700.network/fakebook/941127588/ | [46e9d1bb131ed25a43a7c3dfe3ab601ea7c3116c2d383bb9511c58a071b3501a](https://raw.githubusercontent.com/huwang12138/markdown-picture/main/flag5.png)        |
 
 <div  align="center">    
-   <img src="https://raw.githubusercontent.com/huwang12138/markdown-picture/main/flags.png" width = "690" height = "720" alt="splash_demo" align=center />
+   <img src="https://raw.githubusercontent.com/huwang12138/markdown-picture/main/flags.png" alt="splash_demo" align=center />
 </div>
 
 
