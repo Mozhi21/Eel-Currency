@@ -93,12 +93,9 @@ Flags found by **Xinyi Feng**
 |  project2.5700.network/fakebook/862222411/ | [86b572e7056b0692200ce995d37fdf6f34abeaf90247155159a228fc3b1b5216](https://drive.google.com/file/d/16ksjoh4uqCegsDOdbwUx3k5LAbWfY8T0/view?usp=share_link)        | 
 |  project2.5700.network/fakebook/768684842/ | [2fa8a7226ec30bf891b4696ae34c534445f985cb0bc0c0293f505145af95e47f](https://drive.google.com/file/d/1as7cQvah8MDylT91l4S_Vcr5wrY0RiYP/view?usp=share_link)        |
 |  project2.5700.network/fakebook/528130223/ | [0f2cdd5ec07f84eff7dd9eeb58d7be243d4af96e8e1f5af819123883870f4c73](https://drive.google.com/file/d/1tBwfzyZ_KIBmCL13s9u2F4oqH0bTpgpy/view?usp=share_link)        |
-<div  align="center">    
-   <img src="https://drive.google.com/file/d/1I6Uh5uMpViR4xOsxx2xw6PmvC7S2jbPO/view?usp=share_link" width = "690" height = "720" alt="splash_demo" align=center />
-</div>
-<div  align="center">    
-   <img src="https://imgur.com/a/h7w7TFa.png" width = "690" height = "720" alt="splash_demo" align=center />
-</div>
+
+![Xinyi's falgs](https://drive.google.com/u/0/uc?id=1C1vXm7BT2u-7ipLeqP4aGoVphegC2TlJ&export=download)
+
    
 Flgs found by **Mozhi Shen** 
 
