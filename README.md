@@ -83,7 +83,7 @@ To summarize, the code uses a BFS algorithm to crawl the Fakebook site and a cus
 
 Flags found by **Xinyi Feng** 
 
- 👉 See folder for [screentshots](https://github.com/CS5700-Hamandi-SP23/sp23-webcrawler-FentPams/tree/main/SP23%20webcrawler%20starter%20code/Flags_screenshot_Xinyi) 
+ 👉 See folder for [screentshots](https://drive.google.com/file/d/1C1vXm7BT2u-7ipLeqP4aGoVphegC2TlJ/view?usp=share_link) 
 
 
 |    url            |      flag (clik to see each screenshot)              |     
@@ -97,7 +97,7 @@ Flags found by **Xinyi Feng**
    <img src="https://drive.google.com/file/d/1I6Uh5uMpViR4xOsxx2xw6PmvC7S2jbPO/view?usp=share_link" width = "690" height = "720" alt="splash_demo" align=center />
 </div>
 <div  align="center">    
-   <img src="https://drive.google.com/file/d/1C1vXm7BT2u-7ipLeqP4aGoVphegC2TlJ/view?usp=share_link" width = "690" height = "720" alt="splash_demo" align=center />
+   <img src="https://imgur.com/a/h7w7TFa.png" width = "690" height = "720" alt="splash_demo" align=center />
 </div>
    
 Flgs found by **Mozhi Shen** 
