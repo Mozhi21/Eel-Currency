@@ -135,6 +135,19 @@ the `handle_data`  function, we complete crawling oneâ€™s friend list when the â
 
 4. Break the crawling when all 5 flags are found. 
 
+:star: **Hui Hu**:
+
+1. `socket.recv()` is a blocking call, which means the program is blocked, or halted, until `socket.recv()` finish its operations, and the program can resume its execution. When socket is blocking, `socket.recv` will return as long as the network buffers have bytes. If bytes in the network buffers are more than `socket.recv` can handle, it will return the maximum number of bytes it can handle. If bytes in the network buffers are less than `socket.recv` can handle, it will return all the bytes in the network buffers.
+
+One trick lays here, if we cannot find the correct buffer size when receiving header data, we will keep getting empty bytes, which causes a infinite loop. 
+
+2. The `Set-Cookie` field name contains a series of attributes that specify the details of the cookie, including its name, value, expiration time, domain, path, and other metadata. For example:
+
+   `Set-Cookie: sessionid=xxxxxxx; csrftoken=xxxxxxxx; name=value; Expires=Wed, 21 Oct 2023 07:28:00 GMT; Path=/; Domain=example.com; Secure; HttpOnly`
+We only need `sessionid` and `csrftoken`.
+
+
+
 ## Tests
 **Xinyi Feng**: I use a lot of print in my code, to check what the request header and body looks like and what message given back.
 Also, I print out the craweling process in my console like `print("start crawl url:", url)` to check the url is crawling. Besides, I import timer just for checking the crawling speed. And last, print the flags when I find one. 
