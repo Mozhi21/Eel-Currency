@@ -105,7 +105,7 @@ Flgs found by **Mozhi Shen**
 |  project2.5700.network/fakebook/961886470/ | [dbdf0df829d683723f32f77c69c12c4718fb63662f3ac8bcc9728b37f425d1a8](https://drive.google.com/file/d/1pAhau7hGtVB7J-34QRZ29H6Rki38Zquv/view?usp=sharing)        |
 |  project2.5700.network/fakebook/492181438/ | [ffd0662de5de6fbae7e86f4f2d6e6221c8054e4c2f215efb35fb8b97ca1c85de](https://drive.google.com/file/d/1_5-OqhmD3l_ce8QT8KgzPrVHX5X9R4Y8/view?usp=sharing)     |
 
-![Mozhi's falgs](https://drive.google.com/file/d/1jDhwrgSYayqtdwSJoZ7545QdPZRRvgR8/view?usp=sharing)
+![Mozhi's falgs](https://drive.google.com/uc?export=view&id=1jDhwrgSYayqtdwSJoZ7545QdPZRRvgR8)
 
 Flgs found by **Hui Hu** 
 
